@@ -154,4 +154,4 @@ This toolkit is intended for **educational purposes** and **legitimate defensive
 
 ## License
 
-MIT License — See individual module files for details.
+Apache License 2.0 — See individual module files for details.
